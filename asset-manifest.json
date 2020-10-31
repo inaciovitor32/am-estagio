@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/estagio/static/css/main.452ad1e1.chunk.css",
-    "main.js": "/estagio/static/js/main.80535a38.chunk.js",
-    "main.js.map": "/estagio/static/js/main.80535a38.chunk.js.map",
-    "runtime-main.js": "/estagio/static/js/runtime-main.3993b717.js",
-    "runtime-main.js.map": "/estagio/static/js/runtime-main.3993b717.js.map",
-    "static/js/2.d403f248.chunk.js": "/estagio/static/js/2.d403f248.chunk.js",
-    "static/js/2.d403f248.chunk.js.map": "/estagio/static/js/2.d403f248.chunk.js.map",
-    "index.html": "/estagio/index.html",
-    "static/css/main.452ad1e1.chunk.css.map": "/estagio/static/css/main.452ad1e1.chunk.css.map",
-    "static/js/2.d403f248.chunk.js.LICENSE.txt": "/estagio/static/js/2.d403f248.chunk.js.LICENSE.txt",
-    "static/media/cover.532ca5b7.jpg": "/estagio/static/media/cover.532ca5b7.jpg"
+    "main.css": "/am-estagio/static/css/main.452ad1e1.chunk.css",
+    "main.js": "/am-estagio/static/js/main.80535a38.chunk.js",
+    "main.js.map": "/am-estagio/static/js/main.80535a38.chunk.js.map",
+    "runtime-main.js": "/am-estagio/static/js/runtime-main.862a487f.js",
+    "runtime-main.js.map": "/am-estagio/static/js/runtime-main.862a487f.js.map",
+    "static/js/2.d403f248.chunk.js": "/am-estagio/static/js/2.d403f248.chunk.js",
+    "static/js/2.d403f248.chunk.js.map": "/am-estagio/static/js/2.d403f248.chunk.js.map",
+    "index.html": "/am-estagio/index.html",
+    "static/css/main.452ad1e1.chunk.css.map": "/am-estagio/static/css/main.452ad1e1.chunk.css.map",
+    "static/js/2.d403f248.chunk.js.LICENSE.txt": "/am-estagio/static/js/2.d403f248.chunk.js.LICENSE.txt",
+    "static/media/cover.532ca5b7.jpg": "/am-estagio/static/media/cover.532ca5b7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3993b717.js",
+    "static/js/runtime-main.862a487f.js",
     "static/js/2.d403f248.chunk.js",
     "static/css/main.452ad1e1.chunk.css",
     "static/js/main.80535a38.chunk.js"
