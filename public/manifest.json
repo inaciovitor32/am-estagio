@@ -1,0 +1,8 @@
+{
+  "short_name": "Imóveis à venda",
+  "name": "Imóveis à venda",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
