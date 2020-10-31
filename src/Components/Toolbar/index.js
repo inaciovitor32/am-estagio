@@ -4,8 +4,7 @@ import './styles.css';
 export default class Toolbar extends Component {
     render() {
         return (
-            <div className="toolbar">
-                <form>
+                <form className="toolbar">
                     <label htmlFor="cities">Cidade:</label>
                     <select className="select-css" onChange={this.props.onChange} name="cities" id="cities">
                         <option value="">Mostrar todas</option>
@@ -20,7 +19,6 @@ export default class Toolbar extends Component {
                         <option value="nomeza">Nome Z - A</option>
                     </select>
                 </form>
-            </div>
         );
     }
 }

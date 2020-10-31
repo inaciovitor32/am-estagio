@@ -1,5 +1,6 @@
 .toolbar{
     display:flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     height: 96px;
@@ -68,3 +69,13 @@ label{
     margin: 0 10px 0 10px;
     font-weight: 700;
 }
+
+@media only screen and (max-width: 767px) {
+    .toolbar{
+        height: auto;
+        padding: 8px;
+    }
+    .select-css{
+        flex-basis: 100%;
+    }
+  }
