@@ -19,7 +19,7 @@ export default class Card extends Component {
                         alt="Fachada" />
                 </div>
                 <div className="card-body">
-                    <h3 className="card-title">R$ {Number.isInteger(this.props.preco) ? new Intl.NumberFormat().format(this.props.preco) : this.props.preco}</h3>
+                    <h2 className="card-title">R$ {Number.isInteger(this.props.preco) ? new Intl.NumberFormat().format(this.props.preco) : this.props.preco}</h2>
                     <h3 className="card-title"><FontAwesomeIcon icon={faBuilding} /> {this.props.nome}</h3>
                     <h4 className="card-subtitle">{this.props.cidade}</h4>
                     <p className="card-content">{this.props.bairro}, {this.props.rua}, {this.props.num}, {this.props.cep}.</p>

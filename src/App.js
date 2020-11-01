@@ -6,6 +6,7 @@ import Hero from './Components/Hero';
 import Toolbar from './Components/Toolbar';
 import Card from './Components/Card';
 import Spinner from './Components/Spinner';
+import FAB from './Components/FAB';
 
 export default class App extends Component {
 
@@ -52,7 +53,7 @@ export default class App extends Component {
       <div className="App">
         <Hero />
         <Toolbar onChange={this.handleChange} sortingHandler={this.sortingHandler} />
-
+        <FAB onClick={() => { window.scrollTo({ top: 0, behavior: "smooth" }); }} />
         {!(this.state.isLoading) ? (
           this.state.entries
             .filter(entry => entry.cidade.includes(this.state.city))
