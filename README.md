@@ -2,6 +2,23 @@
 
 Visualização de imóveis. Este projeto obtém dados através de uma requisição HTTP para a API disponibilizada e os exibe em uma lista ordenável e classificável.
 
+[https://inaciovitor32.github.io/am-estagio/](https://inaciovitor32.github.io/am-estagio/)
+
+## Tecnologias utilizadas
+### Ferramentas
+* Insomnia REST
+* NPM
+* Visual Studio Code
+
+### Stack
+* HTML & CSS
+* ReactJS
+
+### Utilitários
+* Axios
+* FontAwesome Icons
+* React Lazy Load
+
 ## Instalação
 
 Use o gerenciador de pacotes NPM para instalar as dependências deste projeto.
