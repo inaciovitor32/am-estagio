@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/am-estagio/static/css/main.37e07f6d.chunk.css",
+    "main.css": "/am-estagio/static/css/main.ed9161c6.chunk.css",
     "main.js": "/am-estagio/static/js/main.b12fe986.chunk.js",
     "main.js.map": "/am-estagio/static/js/main.b12fe986.chunk.js.map",
     "runtime-main.js": "/am-estagio/static/js/runtime-main.862a487f.js",
@@ -8,14 +8,14 @@
     "static/js/2.deef11b8.chunk.js": "/am-estagio/static/js/2.deef11b8.chunk.js",
     "static/js/2.deef11b8.chunk.js.map": "/am-estagio/static/js/2.deef11b8.chunk.js.map",
     "index.html": "/am-estagio/index.html",
-    "static/css/main.37e07f6d.chunk.css.map": "/am-estagio/static/css/main.37e07f6d.chunk.css.map",
+    "static/css/main.ed9161c6.chunk.css.map": "/am-estagio/static/css/main.ed9161c6.chunk.css.map",
     "static/js/2.deef11b8.chunk.js.LICENSE.txt": "/am-estagio/static/js/2.deef11b8.chunk.js.LICENSE.txt",
     "static/media/cover.532ca5b7.jpg": "/am-estagio/static/media/cover.532ca5b7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.862a487f.js",
     "static/js/2.deef11b8.chunk.js",
-    "static/css/main.37e07f6d.chunk.css",
+    "static/css/main.ed9161c6.chunk.css",
     "static/js/main.b12fe986.chunk.js"
   ]
 }
