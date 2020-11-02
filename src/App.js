@@ -74,7 +74,9 @@ export default class App extends Component {
                       cep={(!filteredEntries.cep) ? "CEP não informado" : filteredEntries.cep}
                       metragem={filteredEntries.planta["metragem"]}
                       dorms={filteredEntries.planta["dorms"]}
-                      vagas={filteredEntries.planta["vagas"] ? (filteredEntries.planta["vagas"]) : (0)} />
+                      vagas={filteredEntries.planta["vagas"] ? (filteredEntries.planta["vagas"]) : (0)}
+                      lat={filteredEntries.location["_lat"]}
+                      long={filteredEntries.location["_long"]} />
                   </LazyLoad>
                 );
               }
@@ -93,7 +95,9 @@ export default class App extends Component {
                       cep={(!filteredEntries.cep) ? "CEP não informado" : filteredEntries.cep}
                       metragem={"N/D"}
                       dorms={"N/D"}
-                      vagas={"N/D"} />
+                      vagas={"N/D"}
+                      lat={filteredEntries.location["_lat"]}
+                      long={filteredEntries.location["_long"]} />
                   </LazyLoad>
                 );
               }

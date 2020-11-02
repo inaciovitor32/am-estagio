@@ -57,3 +57,23 @@ img{
         flex-basis: 100%;
     }
   }
+
+  .place-link{
+      display: inline-block;
+      margin-bottom: 16px;
+      padding: 8px 16px 8px 16px;
+      background-color: #1E90FF;
+      color: #fff;
+      border-radius: 5px;
+      text-decoration: none;
+  }
+
+  .place-link:hover{
+    background-color: #6c757d;
+    padding: 6px 13px 5px 13px;
+    border: 3px solid #1E90FF;
+}
+
+  .link-text{
+      margin: 0 8px 0 0px;
+  }
